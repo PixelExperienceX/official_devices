@@ -1,0 +1,19 @@
+   {
+      "name": "Mi 10T",
+      "brand": "Xiaomi",
+      "codename": "apollo",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "xda_thread": "",
+            "stable": true,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_apollo",
+         "kernel_xiaomi_apollo",
+         "vendor_xiaomi",
+         "vendor_xiaomi_sdm845-common-extra"
+      ]
+   }
