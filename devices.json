@@ -1,3 +1,4 @@
+ [
    {
       "name": "Mi 10T",
       "brand": "Xiaomi",
@@ -16,4 +17,23 @@
          "vendor_xiaomi",
          "vendor_xiaomi_sdm845-common-extra"
       ]
+   },
+   {
+      "name": "Redmi 8",
+      "brand": "Xiaomi",
+      "codename": "olive",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "xda_thread": "",
+            "stable": true,
+            "deprecated": false
+         }
+      ],
+      "repositories": [
+         "device_xiaomi_olive",
+         "kernel_xiaomi_olive",
+         "vendor_xiaomi_olivewood"
+      ]
    }
+]
